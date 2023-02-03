@@ -1,0 +1,13 @@
+{
+  "name": "fa-random-color",
+  "version": "1.0.0",
+  "description": "Random rgb color generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammed Fasil",
+  "license": "ISC"
+}
